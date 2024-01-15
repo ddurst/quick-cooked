@@ -1,0 +1,18 @@
+{
+
+  "extensionName": {
+    "message": "Open in cooked.wiki",
+    "description": "Name of the extension"
+  },
+
+  "extensionDescription": {
+    "message": "Opens the active tab via https://cooked.wiki/{active tab url}.",
+    "description": "Description of the add-on."
+  },
+
+  "extensionTooltip": {
+    "message": "Open via cooked.wiki",
+    "description": "Tooltip for the browser action."
+  }
+
+}
