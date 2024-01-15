@@ -10,7 +10,7 @@
       "id": "cooked@addons.mozilla.org",
       "strict_min_version": "115.0"
     },
-    gecko_android {
+    "gecko_android": {
       "id": "cooked@addons.mozilla.org",
       "strict_min_version": "115.0"
     }
